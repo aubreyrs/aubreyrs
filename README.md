@@ -7,9 +7,10 @@
       <br>
       techstack <3
       <br>
-      languages: python, js/ts, go, rust, c++/c/c#, java/kotlin 
+      languages: python, js/ts, go, rust, c++/c/c#, java/kotlin etc.
       <br>
-      databases: mongodb, mysql, redis, cassandra, postgresql
+      databases: mongodb, mysql, redis, cassandra, postgresql etc.
+      <br>
       <br>
       <a href="https://aubrey.codes">website/resume</a>
       <br>
