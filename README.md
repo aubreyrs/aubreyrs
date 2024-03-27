@@ -1,5 +1,5 @@
 <p float="left">
-  <img src="side-images/main.jpeg" width="250" align="left">
+  <img src="images/main.jpeg" width="250" align="left">
   <p float="left">
     <samp>
       techstack <3
