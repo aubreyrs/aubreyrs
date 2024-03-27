@@ -14,12 +14,6 @@
       <br>
       fun facts!: I have more then 1 pet, my favourite ice-cream is mint chocolate chip, and I love all my friends :D
       <br
-      <br>
-      <br>
-      <a href="https://aubrey.codes">website/resume</a>
-      <br>
-      <a href="https://twitter.com/aubreyycat">@aubreyycat</a>
-      <br>
     </samp>
   </p>
 </p>
