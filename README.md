@@ -1,16 +1,17 @@
-### Hi there 👋
-
-<!--
-**aubreycat/aubreycat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p float="left">
+  <img src="side-images/main.jpeg" width="250" align="left">
+  <p float="left">
+    <samp>
+      techstack <3
+      <br>
+      languages: python, js/ts, go, rust, c++/c/c#, java/kotlin 
+      <br>
+      databases: mongodb, mysql, redis, cassandra, postgresql
+      <br>
+      <a href="https://aubrey.codes">website/resume</a>
+      <br>
+      <a href="https://twitter.com/aubreyycat">@aubreyycat</a>
+      <br>
+    </samp>
+  </p>
+</p>
