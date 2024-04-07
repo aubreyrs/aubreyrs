@@ -5,7 +5,7 @@
       i'm aubrey ^-^ | 18 | she/her
       <br>
       <br>
-      techstack <3
+      techstack <3 - i love cli stuff 
       <br>
       languages: python, js/ts, go, rust, c++/c/c#, java/kotlin etc.
       <br>
