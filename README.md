@@ -11,8 +11,6 @@
       <br>
       databases: mongodb, mysql, redis, cassandra, postgresql etc.
       <br>
-      <br>
-      fun facts!: I have more then 1 pet, my favourite ice-cream is mint chocolate chip, and I love all my friends :D
       <br
     </samp>
   </p>
