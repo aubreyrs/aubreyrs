@@ -1,8 +1,8 @@
 <p float="left">
-  <img src="images/2.jpg" width="250" align="left">
+  <img src="images/image.webp" width="250" align="left">
   <p float="left">
     <samp>
-      i'm aubrey ^-^ | 18 | she/her
+      i'm aubrey ^-^ | 18 | any prns
       <br>
       <br>
       techstack <3 - i love cli stuff 
