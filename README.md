@@ -23,10 +23,10 @@
       <br>
       <br>
       <div align="center">
-        twitter :p -
-        <a href="twitter.com/AUBREY0P">twitter</a><br>
-        twitch :3 -
-        <a href="https://www.twitch.tv/aubreycat_">twitch</a><br>
+        Twitter :p -
+        <a href="twitter.com/AUBREY0P">@AUBREY0P</a><br>
+        Twitch :3 -
+        <a href="https://www.twitch.tv/aubreycat_">@aubreycat_</a><br>
       </div>
     </samp>
   </p>
