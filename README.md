@@ -2,8 +2,10 @@
   <img src="images/lis2.jpg" width="250" align="left">
   <p float="left">
     <samp>
+      <div align="center">
       Hi :D I'm Aubrey!
       <br>
+      </div>
       <br>
       I'm an 18 year old fullstack developer from the UK! my current stack includes:
       Languages: Python, JS/TS, Go, Rust, C++/C/C#, x86 ASM, Java/Kotlin etc.
