@@ -23,8 +23,8 @@
       <br>
       <br>
       <div align="center">
-        <a href="twitter.com/AUBREY0P">Twitter</a><br>
-        <a href="https://www.twitch.tv/aubreycat_">Twitch</a>
+        twitter :p -
+        <a href="twitter.com/AUBREY0P">Twitter </a><br>
       </div>
     </samp>
   </p>
