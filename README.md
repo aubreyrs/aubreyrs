@@ -24,7 +24,9 @@
       <br>
       <div align="center">
         twitter :p -
-        <a href="twitter.com/AUBREY0P">Twitter </a><br>
+        <a href="twitter.com/AUBREY0P"> </a><br>
+        twitch :3 -
+        <a href="https://www.twitch.tv/aubreycat_"> </a><br>
       </div>
     </samp>
   </p>
