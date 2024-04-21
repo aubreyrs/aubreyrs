@@ -23,7 +23,10 @@
       of my favorite insects include butterflies and lacewings :D
       <br>
       <br>
-      <a href="twitter.com/AUBREY0P">/Twitter</a><br>
+      <div style="text-align: center;">
+        <a href="twitter.com/AUBREY0P">Twitter</a><br>
+        <a href="https://www.twitch.tv/aubreycat\\\\\\\\\\\\\\\_">Twitch</a>
+      </div>
     </samp>
   </p>
 </p>
