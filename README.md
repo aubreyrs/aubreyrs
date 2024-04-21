@@ -8,7 +8,7 @@
       I'm an 18 year old fullstack developer from the UK! my current stack includes:
       Languages: Python, JS/TS, Go, Rust, C++/C/C#, x86 ASM, Java/Kotlin etc.
       Databases: MongoDB, MySQL, Redis, Cassandra, PostgreSQL etc.
-      <br>
+      I also like doing a lot of things related to malware analysis and reverse engineering! 
       <br>
       <br>
       Some stuff I'm into includes the following :p
@@ -18,10 +18,12 @@
       Forms of GUI's.
       <br>
       <br>
-      <br>
       When it comes to more about me IRL, I'm from the UK studying computer science :p
       I really enjoy a lot about nature, especially plants, flowers and insects, some
       of my favorite insects include butterflies and lacewings :D
+      <br>
+      <br>
+      <a href="twitter.com/AUBREY0P">/Twitter</a><br>
     </samp>
   </p>
 </p>
