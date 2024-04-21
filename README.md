@@ -10,13 +10,18 @@
       Databases: MongoDB, MySQL, Redis, Cassandra, PostgreSQL etc.
       <br>
       <br>
+      <br>
       Some stuff I'm into includes the following :p
       I really enjoy writing tools that enhance the Windows experiences, especially things
       That make everything a lot more visually appealing.
       I also really like creating CLI tools! I've always preferred TUIs/CLI's over most other
       Forms of GUI's.
       <br>
-      <br
+      <br>
+      <br>
+      When it comes to more about me IRL, I'm from the UK studying computer science :p
+      I really enjoy a lot about nature, especially plants, flowers and insects, some
+      of my favorite insects include butterflies and lacewings :D
     </samp>
   </p>
 </p>
