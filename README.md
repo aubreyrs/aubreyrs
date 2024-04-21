@@ -1,5 +1,5 @@
 <p float="left">
-  <img src="images/LIS.jpg" width="250" align="left">
+  <img src="images/lis2.jpg" width="250" align="left">
   <p float="left">
     <samp>
       i'm aubrey ^-^ | 18 | any prns
