@@ -9,7 +9,6 @@
       <br>
       I'm an fullstack developer from the UK! my current stack includes:
       Languages: Python, JS/TS, Go, Rust, C++/C/C#, x86 ASM, Java/Kotlin etc.
-      Databases: MongoDB, MySQL, Redis, Cassandra, PostgreSQL etc.
       <br>
       <br>
       Some stuff I'm into includes the following :p
