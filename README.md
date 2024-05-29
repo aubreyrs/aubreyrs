@@ -17,9 +17,9 @@
       <br>
       <br>
       twt: 
-      <a href="https://twitter.com/aubreydll">@aubreydll
+      <a href="https://twitter.com/aubreydll">@aubreydll</a><br>
       contact: 
-      <a href="mailto:me@aubrey.codes">me@aubrey.codes
+      <a href="mailto:me@aubrey.codes">me@aubrey.codes</a><br>
     </samp>
   </p>
 </p>
