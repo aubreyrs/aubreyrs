@@ -22,13 +22,10 @@
       <a href="mailto:me@aubrey.codes">me@aubrey.codes</a><br>
       <br>
       <br>
-       ╱|、
       <br>
-      (˚ˎ 。7
-      <br>  
-      |、˜〵
-      <br>
-      じしˍ,)ノ
+      notable projects include:
+      silly32, cpu written in rust: 
+      <a href="https://twitter.com/aubreydll"></a><br>
     </samp>
   </p>
 </p>
