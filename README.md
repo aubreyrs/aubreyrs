@@ -22,10 +22,9 @@
       <a href="mailto:me@aubrey.codes">me@aubrey.codes</a><br>
       <br>
       <br>
-      <br>
       notable projects include:
       silly32, cpu written in rust: 
-      <a href="https://twitter.com/aubreydll"></a><br>
+      <a href="https://twitter.com/aubreydll">silly32, cpu written in rust: </a><br>
     </samp>
   </p>
 </p>
