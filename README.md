@@ -10,8 +10,16 @@
       experienced in rust, ts/js, c++/c & java
       <br>
       <br>
-      if u wanna talk dm me on dc at aubrey.rs
-      <br
+      i have 6 cats, im trans an im fucking awesome
+      im okayish when it comes to reverse engineering etc
+      i love rust, very cool language
+      <br>
+      <br>
+      <br>
+      twt: 
+      <a href="https://twitter.com/aubreydll">@aubreydll</a><br><br>
+      contact: 
+      <a href="mailto:me@aubrey.codes">me@aubrey.codes</a><br>
     </samp>
   </p>
 </p>
