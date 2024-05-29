@@ -10,7 +10,7 @@
       experienced in rust, ts/js, c++/c & java
       <br>
       <br>
-      i have 6 cats, im trans an im fucking awesome
+      i have 6 cats, im fucking awesome
       im okayish when it comes to reverse engineering etc
       i love rust, very cool language
       <br>
