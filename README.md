@@ -20,6 +20,12 @@
       <a href="https://twitter.com/aubreydll">@aubreydll</a><br>
       contact: 
       <a href="mailto:me@aubrey.codes">me@aubrey.codes</a><br>
+      <br>
+      <br>
+       ╱|、
+      (˚ˎ 。7  
+      |、˜〵          
+      じしˍ,)ノ
     </samp>
   </p>
 </p>
