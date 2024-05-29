@@ -24,8 +24,8 @@
       <br>
       notable projects include:
       <br>
-      <a href="https://github.com/aubreyrs/silly32">silly32, cpu written in rust: </a><br>
-      <a href="https://github.com/aubreyrs/LSASS">dumping lsass, written in rust: </a><br>
+      <a href="https://github.com/aubreyrs/silly32">silly32, cpu written in rust</a><br>
+      <a href="https://github.com/aubreyrs/LSASS">dumping lsass, written in rust</a><br>
     </samp>
   </p>
 </p>
