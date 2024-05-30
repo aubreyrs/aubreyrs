@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : Touch-Tone Telephone by Lemon Demon</spotify>
+      <spotify>currently playing!! : champ by Jane Remover</spotify>
       <br>
       <br>
       twt: 
