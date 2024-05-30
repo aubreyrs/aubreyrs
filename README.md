@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : I Deserve to Bleed by Sushi Soucy</spotify>
+      <spotify>currently playing!! : Grapes by James Marriott</spotify>
       <br>
       <br>
       twt: 
