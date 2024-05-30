@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : Goodbye Yellow Brick Road - Remastered 2014 by Elton John</spotify>
+      <spotify>currently playing!! : Goodbye by Bo Burnham</spotify>
       <br>
       <br>
       twt: 
