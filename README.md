@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : 10 Freaky Girls (with 21 Savage) by Metro Boomin, 21 Savage</spotify>
+      <spotify>currently playing!! : Kids Turned Out Fine by A$AP Rocky</spotify>
       <br>
       <br>
       twt: 
