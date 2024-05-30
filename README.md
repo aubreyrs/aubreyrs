@@ -12,7 +12,8 @@
       <br>
       i have 6 cats, im fucking awesome
       im okayish when it comes to reverse engineering etc
-      i love rust, very cool language
+      i love rust, very cool language~
+      [![Spotify](http://81.0.246.177:24125/)]
       <br>
       <br>
       <br>
