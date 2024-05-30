@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : Oldie by Odd Future</spotify>
+      <spotify>currently playing!! : Purity (feat. Frank Ocean) by A$AP Rocky, Frank Ocean</spotify>
       <br>
       <br>
       twt: 
