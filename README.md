@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : Love, of Money by MAVI</spotify>
+      <spotify>currently playing!! : GONE, GONE / THANK YOU by Tyler, The Creator</spotify>
       <br>
       <br>
       twt: 
