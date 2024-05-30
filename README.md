@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : Rats by khai dreamscurrently playing!! : Rats by khai dreamscurrently playing!! : Rats by khai dreamscurrently playing!! : Rats by khai dreams</spotify>
+      <spotify>currently playing!! : Panic Attack by khai dreamscurrently playing!! : Rats by khai dreamscurrently playing!! : Rats by khai dreamscurrently playing!! : Rats by khai dreamscurrently playing!! : Rats by khai dreams</spotify>
       <br>
       <br>
       twt: 
