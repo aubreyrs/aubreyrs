@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>no song is currently playing :(</spotify>
+      <spotify>currently playing!! : Double Fucking Rainbow Returns by Chris Christodoulou</spotify>
       <br>
       <br>
       twt: 
