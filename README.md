@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : Sad & Alone by Zzz., Trippie Redd</spotify>
+      <spotify>currently playing!! : Love Galore (feat. Travis Scott) by SZA, Travis Scott</spotify>
       <br>
       <br>
       twt: 
