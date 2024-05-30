@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : champ by Jane Remover</spotify>
+      <spotify>currently playing!! : Lost in You by khai dreams</spotify>
       <br>
       <br>
       twt: 
