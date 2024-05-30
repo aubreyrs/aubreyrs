@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : we fell in love in october by girl in red</spotify>
+      <spotify>currently playing!! : Inside Out by Duster</spotify>
       <br>
       <br>
       twt: 
