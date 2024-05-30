@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>no song is playing :( </spotify>
+      <spotify>currently playing!! : Panic Attack by khai dreams</spotify>
       <br>
       <br>
       twt: 
