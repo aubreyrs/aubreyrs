@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : Love Galore (feat. Travis Scott) by SZA, Travis Scott</spotify>
+      <spotify>currently playing!! : Devil Town by Cavetown</spotify>
       <br>
       <br>
       twt: 
