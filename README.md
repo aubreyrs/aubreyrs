@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : I'll Keep Coming by Low Roar</spotify>
+      <spotify>currently playing!! : Ruler of Everything by Tally Hall</spotify>
       <br>
       <br>
       twt: 
