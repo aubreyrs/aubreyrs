@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : Ruler of Everything by Tally Hall</spotify>
+      <spotify>currently playing!! : Welcome to The Internet by Bo Burnham</spotify>
       <br>
       <br>
       twt: 
