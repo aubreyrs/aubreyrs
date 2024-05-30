@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : credits song for my death by vivivivivi</spotify>
+      <spotify>currently playing!! : Manny and Nellie's Theme - Reprise by Justin Hurwitz</spotify>
       <br>
       <br>
       twt: 
