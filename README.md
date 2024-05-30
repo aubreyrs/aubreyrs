@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : Devil Town by Cavetown</spotify>
+      <spotify>currently playing!! : credits song for my death by vivivivivi</spotify>
       <br>
       <br>
       twt: 
