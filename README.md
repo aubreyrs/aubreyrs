@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : All Caps by Madvillain, Madlib, MF DOOM</spotify>
+      <spotify>currently playing!! : GRAVITY (FEAT. TYLER, THE CREATOR) by Brent Faiyaz, Dahi, Tyler, The Creator</spotify>
       <br>
       <br>
       twt: 
