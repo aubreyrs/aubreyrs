@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : Purity (feat. Frank Ocean) by A$AP Rocky, Frank Ocean</spotify>
+      <spotify>currently playing!! : All Caps by Madvillain, Madlib, MF DOOM</spotify>
       <br>
       <br>
       twt: 
