@@ -16,8 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <br>
-      <spotify>Currently playing: Bugs by khai dreamsCurrently playing: Bugs by khai dreams</spotify>
+      <spotify></spotify>
       <br>
       <br>
       twt: 
