@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : C U Girl by Steve Lacy</spotify>
+      <spotify>currently playing!! : Best You Had by Don Toliver</spotify>
       <br>
       <br>
       twt: 
