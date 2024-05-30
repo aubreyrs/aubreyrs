@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : All I Need (feat. Earl Sweatshirt) by Wiki, Earl Sweatshirt</spotify>
+      <spotify>currently playing!! : Sad & Alone by Zzz., Trippie Redd</spotify>
       <br>
       <br>
       twt: 
