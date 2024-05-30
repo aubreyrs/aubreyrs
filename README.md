@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : fivethirty by Jden Ray</spotify>
+      <spotify>currently playing!! : All I Need (feat. Earl Sweatshirt) by Wiki, Earl Sweatshirt</spotify>
       <br>
       <br>
       twt: 
