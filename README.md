@@ -24,7 +24,6 @@
       contact: 
       <a href="mailto:me@aubrey.codes">me@aubrey.codes</a><br>
       <br>
-      <br>
       notable projects include:
       <br>
       <a href="https://github.com/aubreyrs/silly32">silly32, cpu written in rust</a><br>
