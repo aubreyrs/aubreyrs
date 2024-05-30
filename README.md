@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : GRAVITY (FEAT. TYLER, THE CREATOR) by Brent Faiyaz, Dahi, Tyler, The Creator</spotify>
+      <spotify>currently playing!! : 10 Freaky Girls (with 21 Savage) by Metro Boomin, 21 Savage</spotify>
       <br>
       <br>
       twt: 
