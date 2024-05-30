@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : Heartbreaker by khai dreams</spotify>
+      <spotify>currently playing!! : Good Advice - Acoustic by khai dreams</spotify>
       <br>
       <br>
       twt: 
