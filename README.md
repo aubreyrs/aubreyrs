@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : No Company by khai dreams</spotify>
+      <spotify>currently playing!! : Overall by khai dreams</spotify>
       <br>
       <br>
       twt: 
