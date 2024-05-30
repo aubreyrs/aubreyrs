@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : All Eyes On Me (The Outtakes Version) by Bo Burnham</spotify>
+      <spotify>currently playing!! : Goodbye Yellow Brick Road - Remastered 2014 by Elton John</spotify>
       <br>
       <br>
       twt: 
