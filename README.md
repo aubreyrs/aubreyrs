@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : Goodbye by Bo Burnham</spotify>
+      <spotify>currently playing!! : That Funny Feeling by Bo Burnham</spotify>
       <br>
       <br>
       twt: 
