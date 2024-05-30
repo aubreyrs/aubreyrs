@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : Sleeping On Trains by James Marriott</spotify>
+      <spotify>currently playing!! : I Deserve to Bleed by Sushi Soucy</spotify>
       <br>
       <br>
       twt: 
