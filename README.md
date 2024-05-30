@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : Kids Turned Out Fine by A$AP Rocky</spotify>
+      <spotify>currently playing!! : C U Girl by Steve Lacy</spotify>
       <br>
       <br>
       twt: 
