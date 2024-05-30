@@ -17,7 +17,7 @@
       <br>
       <br>
       <br>
-      <spotify>Currently playing: Bugs by khai dreams</spotify>
+      <spotify>Currently playing: Bugs by khai dreamsCurrently playing: Bugs by khai dreams</spotify>
       <br>
       <br>
       twt: 
