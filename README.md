@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>no song is playing :( </spotify>
+      <spotify>currently playing!! : GONE, GONE / THANK YOU by Tyler, The Creator</spotify>
       <br>
       <br>
       twt: 
