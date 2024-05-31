@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : Finale by Justin Hurwitz</spotify>
+      <spotify>currently playing!! : i wanna be the guy by twikipedia</spotify>
       <br>
       <br>
       twt: 
