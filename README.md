@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : SUMMER by BROCKHAMPTON</spotify>
+      <spotify>currently playing!! : BOY BYE by BROCKHAMPTON</spotify>
       <br>
       <br>
       twt: 
