@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : TELEPHONE LINE 415 by underscores</spotify>
+      <spotify>currently playing!! : pay attention! by underscores</spotify>
       <br>
       <br>
       twt: 
