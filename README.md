@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>no song is currently playing :(</spotify>
+      <spotify>currently playing!! : Everybody's dead! by underscores</spotify>
       <br>
       <br>
       twt: 
