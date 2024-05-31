@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : So You Are Tired by Sufjan Stevens</spotify>
+      <spotify>currently playing!! : Finale by Justin Hurwitz</spotify>
       <br>
       <br>
       twt: 
