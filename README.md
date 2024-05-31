@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : BOY BYE by BROCKHAMPTON</spotify>
+      <spotify>currently playing!! : 1999 WILDFIRE by BROCKHAMPTON</spotify>
       <br>
       <br>
       twt: 
