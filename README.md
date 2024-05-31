@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : Near by Alex G</spotify>
+      <spotify>currently playing!! : Sexy to Someone by Clairo</spotify>
       <br>
       <br>
       twt: 
