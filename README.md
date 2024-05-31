@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : FMG by BROCKHAMPTON</spotify>
+      <spotify>currently playing!! : ANIMAL by BROCKHAMPTON</spotify>
       <br>
       <br>
       twt: 
