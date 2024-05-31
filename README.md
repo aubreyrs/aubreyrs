@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : Maxine by Hotline TNT</spotify>
+      <spotify>currently playing!! : So You Are Tired by Sufjan Stevens</spotify>
       <br>
       <br>
       twt: 
