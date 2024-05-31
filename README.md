@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : Dumb Days by Fantst</spotify>
+      <spotify>currently playing!! : Pass Me By by Fantst</spotify>
       <br>
       <br>
       twt: 
