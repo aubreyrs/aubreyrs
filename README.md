@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : baby by again&again</spotify>
+      <spotify>currently playing!! : Taking by Alex G</spotify>
       <br>
       <br>
       twt: 
