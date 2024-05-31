@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : Pass Me By by Fantst</spotify>
+      <spotify>currently playing!! : Maxine by Hotline TNT</spotify>
       <br>
       <br>
       twt: 
