@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : Advice by Alex G</spotify>
+      <spotify>currently playing!! : The Breakup Suite by Duster</spotify>
       <br>
       <br>
       twt: 
