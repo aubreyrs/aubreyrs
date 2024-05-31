@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : crush - Syzy Remix by Syzy, kmoe</spotify>
+      <spotify>currently playing!! : Bugs by khai dreams</spotify>
       <br>
       <br>
       twt: 
