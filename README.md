@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>no song is currently playing :(</spotify>
+      <spotify>currently playing!! : i wanna be the guy by twikipedia</spotify>
       <br>
       <br>
       twt: 
