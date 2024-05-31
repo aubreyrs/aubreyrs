@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : pay attention! by underscores</spotify>
+      <spotify>currently playing!! : More Than Friends by Fantst</spotify>
       <br>
       <br>
       twt: 
