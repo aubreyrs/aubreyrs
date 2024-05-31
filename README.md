@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : I Hate School by Ruben the Understander</spotify>
+      <spotify>currently playing!! : crush - Syzy Remix by Syzy, kmoe</spotify>
       <br>
       <br>
       twt: 
