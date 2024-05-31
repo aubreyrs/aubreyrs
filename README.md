@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : 1999 WILDFIRE by BROCKHAMPTON</spotify>
+      <spotify>currently playing!! : GOLD by BROCKHAMPTON</spotify>
       <br>
       <br>
       twt: 
