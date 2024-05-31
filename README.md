@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : Oldie by Odd Future</spotify>
+      <spotify>currently playing!! : I Hate School by Ruben the Understander</spotify>
       <br>
       <br>
       twt: 
