@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : May by khai dreams</spotify>
+      <spotify>currently playing!! : Advice by Alex G</spotify>
       <br>
       <br>
       twt: 
