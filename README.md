@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : LISTERINE by BROCKHAMPTON</spotify>
+      <spotify>currently playing!! : melodrama by underscores</spotify>
       <br>
       <br>
       twt: 
