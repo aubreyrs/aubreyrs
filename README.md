@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : Put The Gloxx Down by DJmegan23</spotify>
+      <spotify>currently playing!! : one am by quinn</spotify>
       <br>
       <br>
       twt: 
