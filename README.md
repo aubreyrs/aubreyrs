@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : The Flag is Raised by Bladee, Ecco2k</spotify>
+      <spotify>currently playing!! : i'm here for a good time, not a long time by quinn</spotify>
       <br>
       <br>
       twt: 
