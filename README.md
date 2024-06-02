@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : Locals (Girls like us) [with gabby start] by underscores, gabby start</spotify>
+      <spotify>currently playing!! : Put The Gloxx Down by DJmegan23</spotify>
       <br>
       <br>
       twt: 
