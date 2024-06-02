@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : huh by glaive</spotify>
+      <spotify>currently playing!! : The Flag is Raised by Bladee, Ecco2k</spotify>
       <br>
       <br>
       twt: 
