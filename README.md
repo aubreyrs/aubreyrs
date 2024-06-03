@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : 2267 (feat. ericdoa) by kmoe, ericdoa</spotify>
+      <spotify>currently playing!! : dumb party by Internet Girl</spotify>
       <br>
       <br>
       twt: 
