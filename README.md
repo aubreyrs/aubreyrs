@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : one am by quinn</spotify>
+      <spotify>currently playing!! : 2267 (feat. ericdoa) by kmoe, ericdoa</spotify>
       <br>
       <br>
       twt: 
