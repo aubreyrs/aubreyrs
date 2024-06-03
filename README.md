@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : crush by kmoe</spotify>
+      <spotify>currently playing!! : arm and a leg by ericdoa</spotify>
       <br>
       <br>
       twt: 
