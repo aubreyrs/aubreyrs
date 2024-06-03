@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : arm and a leg by ericdoa</spotify>
+      <spotify>currently playing!! : Complicated by Numl6ck, glaive</spotify>
       <br>
       <br>
       twt: 
