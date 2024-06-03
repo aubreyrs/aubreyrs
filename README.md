@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : dumb party by Internet Girl</spotify>
+      <spotify>currently playing!! : stuck by webc4m</spotify>
       <br>
       <br>
       twt: 
