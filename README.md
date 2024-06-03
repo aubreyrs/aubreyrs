@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : silly by quinn</spotify>
+      <spotify>currently playing!! : Johnny johnny johnny by underscores</spotify>
       <br>
       <br>
       twt: 
