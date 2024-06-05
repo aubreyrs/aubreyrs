@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : crush by kmoe</spotify>
+      <spotify>currently playing!! : clueless by kuru, kurtains</spotify>
       <br>
       <br>
       twt: 
