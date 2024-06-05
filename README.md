@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : OMEN by blackwinterwells</spotify>
+      <spotify>currently playing!! : crush by kmoe</spotify>
       <br>
       <br>
       twt: 
