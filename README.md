@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : Sugar by Alex G</spotify>
+      <spotify>currently playing!! : In My Arms by Alex G</spotify>
       <br>
       <br>
       twt: 
