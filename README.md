@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : shattered by mental, blxty</spotify>
+      <spotify>currently playing!! : Near by Alex G</spotify>
       <br>
       <br>
       twt: 
