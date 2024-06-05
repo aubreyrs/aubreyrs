@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : Royal Blue Walls by Jane Remover</spotify>
+      <spotify>no song is currently playing :(</spotify>
       <br>
       <br>
       twt: 
