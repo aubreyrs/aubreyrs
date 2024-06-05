@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : Near by Alex G</spotify>
+      <spotify>currently playing!! : Project 2 by Alex G</spotify>
       <br>
       <br>
       twt: 
