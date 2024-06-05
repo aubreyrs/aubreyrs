@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : clueless by kuru, kurtains</spotify>
+      <spotify>currently playing!! : make-no-sense by kuru, twikipedia</spotify>
       <br>
       <br>
       twt: 
