@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : pulse by blxty</spotify>
+      <spotify>currently playing!! : regret by blxty</spotify>
       <br>
       <br>
       twt: 
