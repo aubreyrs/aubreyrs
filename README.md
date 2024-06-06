@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : make-no-sense by kuru, twikipedia</spotify>
+      <spotify>currently playing!! : room for one by twikipedia</spotify>
       <br>
       <br>
       twt: 
