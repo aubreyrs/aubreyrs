@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : war by twikipedia, heygwuapo</spotify>
+      <spotify>currently playing!! : swear to god by twikipedia</spotify>
       <br>
       <br>
       twt: 
