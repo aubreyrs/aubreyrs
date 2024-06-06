@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : I Eat Humans by Izaya Tiji</spotify>
+      <spotify>currently playing!! : All Eyes On Me by Bo Burnham</spotify>
       <br>
       <br>
       twt: 
