@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : final feliz by twikipedia</spotify>
+      <spotify>currently playing!! : titles by twikipedia, funeral</spotify>
       <br>
       <br>
       twt: 
