@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : figure me out by twikipedia</spotify>
+      <spotify>currently playing!! : far apart by twikipedia</spotify>
       <br>
       <br>
       twt: 
