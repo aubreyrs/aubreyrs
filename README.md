@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : Orgy for One by Ninja Sex Party</spotify>
+      <spotify>no song is currently playing :(</spotify>
       <br>
       <br>
       twt: 
