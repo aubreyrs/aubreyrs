@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>no song is currently playing :(</spotify>
+      <spotify>currently playing!! : Zatoichi [Feat. slowthai] by Denzel Curry, slowthai</spotify>
       <br>
       <br>
       twt: 
