@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : titles by twikipedia, funeral</spotify>
+      <spotify>currently playing!! : cardboard boxes by twikipedia</spotify>
       <br>
       <br>
       twt: 
