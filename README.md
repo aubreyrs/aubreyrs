@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : crazy by kuru, blackwinterwells, blxty, grandee</spotify>
+      <spotify>currently playing!! : texas by blxty, kuru</spotify>
       <br>
       <br>
       twt: 
