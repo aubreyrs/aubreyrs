@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : i see you by quinn</spotify>
+      <spotify>currently playing!! : song about imAGINARY PEOPEL by quinn</spotify>
       <br>
       <br>
       twt: 
