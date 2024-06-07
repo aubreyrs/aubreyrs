@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : and now a word from our sponsors by quinn</spotify>
+      <spotify>currently playing!! : i'm here for a good time, not a long time by quinn</spotify>
       <br>
       <br>
       twt: 
