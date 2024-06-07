@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : the trust game by quinn</spotify>
+      <spotify>currently playing!! : I've heard that song before by quinn</spotify>
       <br>
       <br>
       twt: 
