@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : what are you thinking of by quinn</spotify>
+      <spotify>currently playing!! : we can't be friends by quinn</spotify>
       <br>
       <br>
       twt: 
