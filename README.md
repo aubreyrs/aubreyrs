@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : The World Is Ending Soon! by quinn</spotify>
+      <spotify>currently playing!! : can you really blame me for how I react? by quinn</spotify>
       <br>
       <br>
       twt: 
