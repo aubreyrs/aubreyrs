@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : euphoria by Kendrick Lamar</spotify>
+      <spotify>currently playing!! : Swing Ya Pole by Summrs</spotify>
       <br>
       <br>
       twt: 
