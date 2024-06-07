@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : Best You Had by Don Toliver</spotify>
+      <spotify>currently playing!! : Ur Still Mine by Frog</spotify>
       <br>
       <br>
       twt: 
