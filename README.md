@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : N.Y. State of Mind by Nas</spotify>
+      <spotify>currently playing!! : I Feel Bad by I Hate Myself Because</spotify>
       <br>
       <br>
       twt: 
