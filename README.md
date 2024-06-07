@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : hustle by quinn</spotify>
+      <spotify>currently playing!! : Xianjian Rare Earth Metal by quinn</spotify>
       <br>
       <br>
       twt: 
