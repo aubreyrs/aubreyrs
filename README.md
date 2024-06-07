@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : start to rain intro by quinn</spotify>
+      <spotify>currently playing!! : hustle by quinn</spotify>
       <br>
       <br>
       twt: 
