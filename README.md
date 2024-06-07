@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : Got Shocked by Wednesday</spotify>
+      <spotify>currently playing!! : Quarry by Wednesday</spotify>
       <br>
       <br>
       twt: 
