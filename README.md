@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : LOUIE V by Eem Triplin</spotify>
+      <spotify>currently playing!! : AWKWARD FREESTYLE by Eem Triplin</spotify>
       <br>
       <br>
       twt: 
