@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : texas by blxty, kuru</spotify>
+      <spotify>currently playing!! : no no by blxty, i9bonsai, kuru</spotify>
       <br>
       <br>
       twt: 
