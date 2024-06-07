@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : food 4 thot by quinn</spotify>
+      <spotify>currently playing!! : the trust game by quinn</spotify>
       <br>
       <br>
       twt: 
