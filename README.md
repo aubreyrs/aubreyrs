@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : Hope by Alex G</spotify>
+      <spotify>currently playing!! : Chosen to Deserve by Wednesday</spotify>
       <br>
       <br>
       twt: 
