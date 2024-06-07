@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : birthday girl by quinn</spotify>
+      <spotify>currently playing!! : silly by quinn</spotify>
       <br>
       <br>
       twt: 
