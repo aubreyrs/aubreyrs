@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : do you believe by quinn</spotify>
+      <spotify>currently playing!! : heart of coal by quinn</spotify>
       <br>
       <br>
       twt: 
