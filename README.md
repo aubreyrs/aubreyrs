@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : gatecode by quinn, FearDorian</spotify>
+      <spotify>currently playing!! : ready2go by quinn</spotify>
       <br>
       <br>
       twt: 
