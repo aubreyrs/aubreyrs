@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : AWKWARD FREESTYLE by Eem Triplin</spotify>
+      <spotify>currently playing!! : Best You Had by Don Toliver</spotify>
       <br>
       <br>
       twt: 
