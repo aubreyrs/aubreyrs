@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : radius by kuru, quinn</spotify>
+      <spotify>currently playing!! : wired in by kuru</spotify>
       <br>
       <br>
       twt: 
