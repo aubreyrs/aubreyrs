@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : no no by blxty, i9bonsai, kuru</spotify>
+      <spotify>no song is currently playing :(</spotify>
       <br>
       <br>
       twt: 
