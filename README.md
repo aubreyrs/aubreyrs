@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : rare jawn by quinn</spotify>
+      <spotify>currently playing!! : i see you by quinn</spotify>
       <br>
       <br>
       twt: 
