@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : New Friends (feat. Eem Triplin) by Malcolm Todd, Eem Triplin</spotify>
+      <spotify>currently playing!! : WALKED IN by Eem Triplin</spotify>
       <br>
       <br>
       twt: 
