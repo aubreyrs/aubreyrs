@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : Quarry by Wednesday</spotify>
+      <spotify>no song is currently playing :(</spotify>
       <br>
       <br>
       twt: 
