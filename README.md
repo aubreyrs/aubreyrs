@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>no song is currently playing :(</spotify>
+      <spotify>currently playing!! : I Feel Bad by I Hate Myself Because</spotify>
       <br>
       <br>
       twt: 
