@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : 12/25/18 by quinn</spotify>
+      <spotify>currently playing!! : it molds where it doesn't dry correctly by quinn</spotify>
       <br>
       <br>
       twt: 
