@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : phase party (Put Your Hands Up Your Ass!) [MORE DROP MIX] by Olswel</spotify>
+      <spotify>currently playing!! : N.Y. State of Mind by Nas</spotify>
       <br>
       <br>
       twt: 
