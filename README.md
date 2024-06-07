@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : it's nothing by quinn</spotify>
+      <spotify>currently playing!! : phase party (Put Your Hands Up Your Ass!) [MORE DROP MIX] by Olswel</spotify>
       <br>
       <br>
       twt: 
