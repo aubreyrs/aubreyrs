@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : you don’t gotta be here if you don’t wone’a by quinn</spotify>
+      <spotify>currently playing!! : what are you thinking of by quinn</spotify>
       <br>
       <br>
       twt: 
