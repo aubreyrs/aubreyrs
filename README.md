@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : wait4me by blxty, kuru</spotify>
+      <spotify>currently playing!! : vete by kuru</spotify>
       <br>
       <br>
       twt: 
