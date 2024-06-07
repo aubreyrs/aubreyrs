@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>no song is currently playing :(</spotify>
+      <spotify>currently playing!! : Love Me by Lil Wayne, Drake, Future</spotify>
       <br>
       <br>
       twt: 
