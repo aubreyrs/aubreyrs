@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : I Feel Bad by I Hate Myself Because</spotify>
+      <spotify>currently playing!! : Maxine by Hotline TNT</spotify>
       <br>
       <br>
       twt: 
