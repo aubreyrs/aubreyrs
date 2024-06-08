@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : Crab by Alex G</spotify>
+      <spotify>currently playing!! : Rylee & I by Mk.gee</spotify>
       <br>
       <br>
       twt: 
