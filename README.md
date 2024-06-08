@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : Honey by DJ Sabrina The Teenage DJ</spotify>
+      <spotify>currently playing!! : Goddess by Laufey</spotify>
       <br>
       <br>
       twt: 
