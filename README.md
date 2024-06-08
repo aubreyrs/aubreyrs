@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : Idku by Cardingfraud, quinn, Ways</spotify>
+      <spotify>currently playing!! : WAKE UPP by NOVAGANG, Ways</spotify>
       <br>
       <br>
       twt: 
