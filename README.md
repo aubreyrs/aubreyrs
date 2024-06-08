@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : Saltfields (There's nothing we can do!) by underscores</spotify>
+      <spotify>currently playing!! : Everybody's dead! by underscores</spotify>
       <br>
       <br>
       twt: 
