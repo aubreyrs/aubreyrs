@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : Serendipity by Laufey</spotify>
+      <spotify>currently playing!! : Jungle by Drake</spotify>
       <br>
       <br>
       twt: 
