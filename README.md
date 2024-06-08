@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : Giverrr by Loukeman</spotify>
+      <spotify>currently playing!! : ANGEL by 454, SURF GANG</spotify>
       <br>
       <br>
       twt: 
