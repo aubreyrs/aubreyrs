@@ -34,7 +34,7 @@
 
 
 ```math
-\mmlToken{ms}[fontfamily="goombafont; color:red; pointer-events: none; z-index: -11; position: fixed; top: 0; left: 0; height: 100vh; background-size: 100vw 100vh; background-position: bottom; object-fit: cover; background-size: cover; width: 100vw; opacity: 0.3; background: url('https://raw.githubusercontent.com/aubreyrs/aubreyrs/main/images/kitty.png'); "]{}
+\mmlToken{ms}[fontfamily="goombafont; color:red; pointer-events: none; z-index: -11; position: fixed; top: 0; left: 0; height: 100vh; background-size: 100vw 100vh; background-position: bottom; object-fit: cover; background-size: cover; width: 100vw; opacity: 0.3; background: url('https://raw.githubusercontent.com/aubreyrs/aubreyrs/main/images/bee.png'); "]{}
 
 \mmlToken{ms}[fontfamily="
 font-family: goombafont;
