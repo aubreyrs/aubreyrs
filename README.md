@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : Ivy by Frank Ocean</spotify>
+      <spotify>currently playing!! : Not My Fault by Frost Children</spotify>
       <br>
       <br>
       twt: 
