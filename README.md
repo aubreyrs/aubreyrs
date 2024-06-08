@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : California and Me by Laufey, Philharmonia Orchestra</spotify>
+      <spotify>currently playing!! : Baby You're A Star by Loukeman</spotify>
       <br>
       <br>
       twt: 
