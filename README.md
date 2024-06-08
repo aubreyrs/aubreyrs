@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : Anger Issues by Ways</spotify>
+      <spotify>currently playing!! : Chrysalis by Wido</spotify>
       <br>
       <br>
       twt: 
