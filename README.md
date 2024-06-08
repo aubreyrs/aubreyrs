@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : Crush on me by Wido, kurtains</spotify>
+      <spotify>currently playing!! : Step in the brakes by Wido, twikipedia</spotify>
       <br>
       <br>
       twt: 
