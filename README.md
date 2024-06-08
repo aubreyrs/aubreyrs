@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : Clearer Picture (of You) by Greg Mendez</spotify>
+      <spotify>currently playing!! : Land of Steve-O by Ovlov</spotify>
       <br>
       <br>
       twt: 
