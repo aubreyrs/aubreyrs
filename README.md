@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : Land of Steve-O by Ovlov</spotify>
+      <spotify>currently playing!! : Worth It (Intro) by feeble little horse</spotify>
       <br>
       <br>
       twt: 
