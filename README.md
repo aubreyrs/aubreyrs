@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : Goddess by Laufey</spotify>
+      <spotify>currently playing!! : Oldie by Odd Future</spotify>
       <br>
       <br>
       twt: 
