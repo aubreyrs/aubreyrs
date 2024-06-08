@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : euphoria by Kendrick Lamar</spotify>
+      <spotify>currently playing!! : Ivy by Frank Ocean</spotify>
       <br>
       <br>
       twt: 
