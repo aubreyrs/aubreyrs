@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : I Wonder by Kanye West</spotify>
+      <spotify>currently playing!! : Crab by Alex G</spotify>
       <br>
       <br>
       twt: 
