@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : Rylee & I by Mk.gee</spotify>
+      <spotify>currently playing!! : Serendipity by Laufey</spotify>
       <br>
       <br>
       twt: 
