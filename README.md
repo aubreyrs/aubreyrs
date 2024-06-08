@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : Worth It (Intro) by feeble little horse</spotify>
+      <spotify>currently playing!! : Girls and boys by underscores</spotify>
       <br>
       <br>
       twt: 
