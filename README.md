@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : girls by girl in red</spotify>
+      <spotify>currently playing!! : Bugs by khai dreams</spotify>
       <br>
       <br>
       twt: 
