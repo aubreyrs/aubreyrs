@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : ANGEL by 454, SURF GANG</spotify>
+      <spotify>currently playing!! : I Deserve to Bleed by Sushi Soucy</spotify>
       <br>
       <br>
       twt: 
