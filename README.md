@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : Heck by underscores</spotify>
+      <spotify>currently playing!! : Tongue in cheek by underscores</spotify>
       <br>
       <br>
       twt: 
