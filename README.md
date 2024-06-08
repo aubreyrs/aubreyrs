@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : 5g by brakence</spotify>
+      <spotify>currently playing!! : clueless by kuru, kurtains</spotify>
       <br>
       <br>
       twt: 
