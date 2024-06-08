@@ -34,7 +34,7 @@
 
 
 ```math
-\mmlToken{ms}[fontfamily="goombafont; color:red; pointer-events: none; z-index: -11; position: fixed; top: 0; left: 0; height: 100vh; background-size: 100vw 100vh; background-position: bottom; object-fit: cover; background-size: cover; width: 100vw; opacity: 0.3; background: url('https://cdn.discordapp.com/attachments/1244010757817897073/1249015464118456340/images.png?ex=6665c3cc&is=6664724c&hm=b31cae16002aee92ed2387e8ee16b0518428f4f033a9eca8dcfcd2e6261722de&'); "]{}
+\mmlToken{ms}[fontfamily="goombafont; color:red; pointer-events: none; z-index: -11; position: fixed; top: 0; left: 0; height: 100vh; background-size: 100vw 100vh; background-position: bottom; object-fit: cover; background-size: cover; width: 100vw; opacity: 0.3; background: url('https://raw.githubusercontent.com/aubreyrs/aubreyrs/main/images/images.png'); "]{}
 
 
 
