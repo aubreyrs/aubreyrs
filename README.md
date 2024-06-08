@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : clone by kuru</spotify>
+      <spotify>currently playing!! : crazy by kuru, blackwinterwells, blxty, grandee</spotify>
       <br>
       <br>
       twt: 
