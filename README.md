@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>no song is currently playing :(</spotify>
+      <spotify>currently playing!! : crazy by kuru, blackwinterwells, blxty, grandee</spotify>
       <br>
       <br>
       twt: 
