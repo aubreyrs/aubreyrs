@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : Loansharks by underscores, gabby start</spotify>
+      <spotify>currently playing!! : Tongue in cheek by underscores</spotify>
       <br>
       <br>
       twt: 
