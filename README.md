@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : Land of Steve-O by Ovlov</spotify>
+      <spotify>currently playing!! : Inarticulation by Rio Romeo</spotify>
       <br>
       <br>
       twt: 
