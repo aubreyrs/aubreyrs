@@ -32,9 +32,11 @@
   </p>
 </p>
 
-# Have fun~!
-```math 
-\mmlToken{ms}[fontfamily="goombafont; color:red; pointer-events: none; z-index: -11; position: fixed; top: 0; left: 0; height: 100vh; width: 100vw; background-size: cover; background-position: center; background-image: url('https://cdn.discordapp.com/attachments/1244010757817897073/1249015464118456340/images.png?ex=6665c3cc&is=6664724c&hm=b31cae16002aee92ed2387e8ee16b0518428f4f033a9eca8dcfcd2e6261722de&'); opacity: 0.3;"]{}
+
+```math
+\mmlToken{ms}[fontfamily="goombafont; color:red; pointer-events: none; z-index: -11; position: fixed; top: 0; left: 0; height: 100vh; background-size: 100vw 100vh; background-position: bottom; object-fit: cover; background-size: cover; width: 100vw; opacity: 0.3; background: url('https://cdn.discordapp.com/attachments/1244010757817897073/1249015464118456340/images.png?ex=6665c3cc&is=6664724c&hm=b31cae16002aee92ed2387e8ee16b0518428f4f033a9eca8dcfcd2e6261722de&'); "]{}
+
+
 
 \mmlToken{ms}[fontfamily="
 font-family: goombafont;
@@ -49,11 +51,12 @@ pointer-events: none;
 opacity: 0.5;
 "]{}
 
+
 \mmlToken{ms}[fontfamily="
 font-family: goombafont;
 color:red;
 pointer-events: none;
 position: fixed;
 inset: 0;
-backdrop-filter: saturate(2) blur(15px) brightness(3.7) opacity: 0.2;
+backdrop-filter: saturate(2) blur(15px) brightness(3.7) opacity(0.2);
 "]{}
