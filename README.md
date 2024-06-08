@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : 2093 by Yeat</spotify>
+      <spotify>currently playing!! : 1093 by Yeat</spotify>
       <br>
       <br>
       twt: 
