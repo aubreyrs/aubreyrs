@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : Comma by Cardingfraud, quinn, luvbackpack</spotify>
+      <spotify>currently playing!! : Idku by Cardingfraud, quinn, Ways</spotify>
       <br>
       <br>
       twt: 
