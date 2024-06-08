@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : Step in the brakes by Wido, twikipedia</spotify>
+      <spotify>currently playing!! : Scary by Wido</spotify>
       <br>
       <br>
       twt: 
