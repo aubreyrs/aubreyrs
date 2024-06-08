@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : pretty things by kuru</spotify>
+      <spotify>currently playing!! : girls by girl in red</spotify>
       <br>
       <br>
       twt: 
