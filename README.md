@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : Chrysalis by Wido</spotify>
+      <spotify>currently playing!! : Crush on me by Wido, kurtains</spotify>
       <br>
       <br>
       twt: 
