@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : never let you leave by kmoe</spotify>
+      <spotify>currently playing!! : Linoleum by kmoe</spotify>
       <br>
       <br>
       twt: 
