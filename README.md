@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : Mason Crazy Person by Wido</spotify>
+      <spotify>currently playing!! : Scary by Wido</spotify>
       <br>
       <br>
       twt: 
