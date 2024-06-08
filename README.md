@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>no song is currently playing :(</spotify>
+      <spotify>currently playing!! : Uncanny long arms (with Jane Remover) by underscores, Jane Remover</spotify>
       <br>
       <br>
       twt: 
