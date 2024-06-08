@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : cried myself a river by DAVIN</spotify>
+      <spotify>currently playing!! : cz by Mk.gee</spotify>
       <br>
       <br>
       twt: 
