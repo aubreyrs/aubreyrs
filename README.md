@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : Baby You're A Star by Loukeman</spotify>
+      <spotify>currently playing!! : Clearer Picture (of You) by Greg Mendez</spotify>
       <br>
       <br>
       twt: 
