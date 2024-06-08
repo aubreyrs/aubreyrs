@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : I Was Born To by Wido</spotify>
+      <spotify>currently playing!! : Mason Crazy Person by Wido</spotify>
       <br>
       <br>
       twt: 
