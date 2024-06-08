@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : Jungle by Drake</spotify>
+      <spotify>currently playing!! : California and Me by Laufey, Philharmonia Orchestra</spotify>
       <br>
       <br>
       twt: 
