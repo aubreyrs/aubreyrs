@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : Nothing Changë by Yeat</spotify>
+      <spotify>currently playing!! : I Wonder by Kanye West</spotify>
       <br>
       <br>
       twt: 
