@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : Inarticulation by Rio Romeo</spotify>
+      <spotify>currently playing!! : fall by Oklou</spotify>
       <br>
       <br>
       twt: 
