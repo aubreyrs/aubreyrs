@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : Scary by Wido</spotify>
+      <spotify>currently playing!! : I Was Born To by Wido</spotify>
       <br>
       <br>
       twt: 
