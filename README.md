@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : WAKE UPP by NOVAGANG, Ways</spotify>
+      <spotify>currently playing!! : Anger Issues by Ways</spotify>
       <br>
       <br>
       twt: 
