@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : cried myself a river by DAVIN</spotify>
+      <spotify>currently playing!! : Manny and Nellie's Theme - Reprise by Justin Hurwitz</spotify>
       <br>
       <br>
       twt: 
