@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : Robot Rock by Daft Punk</spotify>
+      <spotify>currently playing!! : Touch-Tone Telephone by Lemon Demon</spotify>
       <br>
       <br>
       twt: 
