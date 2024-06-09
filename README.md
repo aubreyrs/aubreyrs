@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : Elseware by Oneohtrix Point Never</spotify>
+      <spotify>currently playing!! : ONE IN A MILLION by 454</spotify>
       <br>
       <br>
       twt: 
