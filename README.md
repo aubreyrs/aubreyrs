@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : The Yellow Mile by Marika Hackman</spotify>
+      <spotify>currently playing!! : Location by Playboi Carti</spotify>
       <br>
       <br>
       twt: 
