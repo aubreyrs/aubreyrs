@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : Inside Out by Duster</spotify>
+      <spotify>currently playing!! : All I Need (feat. Earl Sweatshirt) by Wiki, Earl Sweatshirt</spotify>
       <br>
       <br>
       twt: 
