@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : Origami by The Rare Occasions</spotify>
+      <spotify>currently playing!! : Snoopy by Loukeman</spotify>
       <br>
       <br>
       twt: 
