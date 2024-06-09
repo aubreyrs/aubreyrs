@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : Snoopy by Loukeman</spotify>
+      <spotify>currently playing!! : Robot Rock by Daft Punk</spotify>
       <br>
       <br>
       twt: 
