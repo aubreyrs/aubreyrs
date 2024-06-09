@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : Ruler of Everything by Tally Hall</spotify>
+      <spotify>currently playing!! : Elseware by Oneohtrix Point Never</spotify>
       <br>
       <br>
       twt: 
