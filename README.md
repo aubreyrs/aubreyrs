@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : Take It Off by Kesha</spotify>
+      <spotify>currently playing!! : October Passed Me By by girl in red</spotify>
       <br>
       <br>
       twt: 
