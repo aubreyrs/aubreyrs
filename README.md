@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : October Passed Me By by girl in red</spotify>
+      <spotify>currently playing!! : Ruler of Everything by Tally Hall</spotify>
       <br>
       <br>
       twt: 
