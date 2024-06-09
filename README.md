@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : ONE IN A MILLION by 454</spotify>
+      <spotify>currently playing!! : cried myself a river by DAVIN</spotify>
       <br>
       <br>
       twt: 
