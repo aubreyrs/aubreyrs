@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : All Eyes On Me by Bo Burnham</spotify>
+      <spotify>currently playing!! : Goodbye by Bo Burnham</spotify>
       <br>
       <br>
       twt: 
