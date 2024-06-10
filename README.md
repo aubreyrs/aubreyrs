@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : Take It Off by Kesha</spotify>
+      <spotify>currently playing!! : Saltfields (There's nothing we can do!) by underscores</spotify>
       <br>
       <br>
       twt: 
