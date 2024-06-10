@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : Giverrr by Loukeman</spotify>
+      <spotify>currently playing!! : i feel like a dog by meat computer</spotify>
       <br>
       <br>
       twt: 
