@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : Fine by Lemon Demon</spotify>
+      <spotify>currently playing!! : Goodbye / Trouble by Greg Mendez</spotify>
       <br>
       <br>
       twt: 
