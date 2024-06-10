@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : Won't U by Loukeman</spotify>
+      <spotify>currently playing!! : Fine by Lemon Demon</spotify>
       <br>
       <br>
       twt: 
