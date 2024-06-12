@@ -22,7 +22,7 @@
       twt: 
       <a href="https://twitter.com/aubreydll">@aubreydll</a><br>
       contact: 
-      <a href="mailto:me@aubrey.codes">me@aubrey.codes</a><br>
+      <a href="mailto:me@aubrey.rs">me@aubrey.codes</a><br>
       <br>
       notable projects include:
       <br>
