@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>no song is currently playing :(</spotify>
+      <spotify>currently playing!! : Hell’s Greatest Dad by Andrew Underberg, Sam Haft, Jeremy Jordan, Amir Talai, Erika Henningsen, Kimiko Glenn</spotify>
       <br>
       <br>
       twt: 
