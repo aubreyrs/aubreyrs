@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>no song is currently playing :(</spotify>
+      <spotify>currently playing!! : Ithinkimdoingbetter by waif, d0llywood1</spotify>
       <br>
       <br>
       twt: 
