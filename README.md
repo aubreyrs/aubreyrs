@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : HahahaDie#Packwatch by Dante Red, Clone1</spotify>
+      <spotify>currently playing!! : Hahahadie by waif, Dante red</spotify>
       <br>
       <br>
       twt: 
