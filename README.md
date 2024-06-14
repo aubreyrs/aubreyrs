@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : Old money bitch by underscores</spotify>
+      <spotify>currently playing!! : Locals (Girls like us) [with gabby start] by underscores, gabby start</spotify>
       <br>
       <br>
       twt: 
