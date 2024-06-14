@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : as above so below by quinn</spotify>
+      <spotify>currently playing!! : its a shame by quinn</spotify>
       <br>
       <br>
       twt: 
