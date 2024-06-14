@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : Old money bitch by underscores</spotify>
+      <spotify>currently playing!! : Days by saturn, quinn</spotify>
       <br>
       <br>
       twt: 
