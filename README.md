@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : The World Is Ending Soon! by quinn</spotify>
+      <spotify>currently playing!! : jealousy is a bitch i hate her by quinn</spotify>
       <br>
       <br>
       twt: 
