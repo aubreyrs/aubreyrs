@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : Hell’s Greatest Dad by Andrew Underberg, Sam Haft, Jeremy Jordan, Amir Talai, Erika Henningsen, Kimiko Glenn</spotify>
+      <spotify>currently playing!! : Blackbird - Remastered 2009 by The Beatles</spotify>
       <br>
       <br>
       twt: 
