@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : i won't run by Keanu Bicol</spotify>
+      <spotify>currently playing!! : Old money bitch by underscores</spotify>
       <br>
       <br>
       twt: 
