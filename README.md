@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : serialkilled by quinn</spotify>
+      <spotify>currently playing!! : fake emotions by quinn</spotify>
       <br>
       <br>
       twt: 
