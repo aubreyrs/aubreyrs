@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : two am by quinn</spotify>
+      <spotify>currently playing!! : dSX.fm intro by Dazegxd, quinn</spotify>
       <br>
       <br>
       twt: 
