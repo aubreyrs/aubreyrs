@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : Blackbird - Remastered 2009 by The Beatles</spotify>
+      <spotify>currently playing!! : Tell Me You Know by Good Kid</spotify>
       <br>
       <br>
       twt: 
