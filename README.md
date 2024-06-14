@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : i hate it here by quinn</spotify>
+      <spotify>no song is currently playing :(</spotify>
       <br>
       <br>
       twt: 
