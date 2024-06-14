@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : four leaf clover instrumental by quinn</spotify>
+      <spotify>currently playing!! : warm and fuzzy by quinn</spotify>
       <br>
       <br>
       twt: 
