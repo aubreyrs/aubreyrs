@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : HAHAHA i thought by 3zeon, Dante Red</spotify>
+      <spotify>currently playing!! : i dont want that many friends in the first place by quinn</spotify>
       <br>
       <br>
       twt: 
