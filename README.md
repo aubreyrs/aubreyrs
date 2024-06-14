@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : Ithinkimdoingbetter by waif, d0llywood1</spotify>
+      <spotify>currently playing!! : Holding Back by waif, d0llywood1</spotify>
       <br>
       <br>
       twt: 
