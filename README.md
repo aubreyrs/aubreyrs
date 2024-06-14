@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : four am by quinn</spotify>
+      <spotify>currently playing!! : bad idea by quinn, blackwinterwells</spotify>
       <br>
       <br>
       twt: 
