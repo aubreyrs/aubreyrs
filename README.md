@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : shift gears by quinn</spotify>
+      <spotify>currently playing!! : coping mechanism by quinn</spotify>
       <br>
       <br>
       twt: 
