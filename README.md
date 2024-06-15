@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : music 2 by estelle allen</spotify>
+      <spotify>no song is currently playing :(</spotify>
       <br>
       <br>
       twt: 
