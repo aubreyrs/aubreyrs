@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : Poison by Blake Roman, Sam Haft, Andrew Underberg</spotify>
+      <spotify>currently playing!! : Loser, Baby by Keith David, Blake Roman, Andrew Underberg, Sam Haft</spotify>
       <br>
       <br>
       twt: 
