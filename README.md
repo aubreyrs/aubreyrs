@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : final fantasy by quinn</spotify>
+      <spotify>currently playing!! : intro by quinn</spotify>
       <br>
       <br>
       twt: 
