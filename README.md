@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : Antarctica by $uicideboy$</spotify>
+      <spotify>currently playing!! : ...And to Those I Love, Thanks for Sticking Around by $uicideboy$</spotify>
       <br>
       <br>
       twt: 
