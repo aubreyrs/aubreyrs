@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : mallgrabber p by quinn</spotify>
+      <spotify>currently playing!! : american freestyle by quinn</spotify>
       <br>
       <br>
       twt: 
