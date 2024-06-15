@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : clairvoyant by quinn</spotify>
+      <spotify>currently playing!! : final fantasy by quinn</spotify>
       <br>
       <br>
       twt: 
