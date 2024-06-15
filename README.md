@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : STRENGTH BONUS by blackwinterwells, quinn, fish narc</spotify>
+      <spotify>currently playing!! : three am by quinn</spotify>
       <br>
       <br>
       twt: 
