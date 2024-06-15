@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : from paris, with love by quinn</spotify>
+      <spotify>currently playing!! : dui by estelle allen</spotify>
       <br>
       <br>
       twt: 
