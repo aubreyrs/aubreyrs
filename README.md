@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : can you really blame me for how I react? by quinn</spotify>
+      <spotify>currently playing!! : shift gears by quinn</spotify>
       <br>
       <br>
       twt: 
