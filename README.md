@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : 1000 Blunts by $uicideboy$</spotify>
+      <spotify>currently playing!! : Hahahadie by waif, Dante red</spotify>
       <br>
       <br>
       twt: 
