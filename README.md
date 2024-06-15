@@ -16,7 +16,7 @@
       i love rust, very cool language
       <br>
       <br>
-      <spotify>currently playing!! : sheet of acid by quinn</spotify>
+      <spotify>currently playing!! : i just had an epiphany by quinn</spotify>
       <br>
       <br>
       twt: 
