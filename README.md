@@ -21,12 +21,15 @@
       contact: 
       <a href="mailto:cat@aubrey.rs">cat@aubrey.rs</a><br>
       <br>
-      notable projects include:
+      silly projects include:
       <br>
-      <a href="https://github.com/aubreyrs/silly32">silly32, cpu written in rust</a><br>
+      <a href="https://github.com/aubreyrs/silly32">silly32, cpu, written in rust</a><br>
       <a href="https://github.com/aubreyrs/LSASS">dumping lsass, written in rust</a><br>
-      <a href="https://github.com/aubreyrs/mcs">mcs tui for mc player info</a><br>
-      <a href="https://github.com/aubreyrs/auth-template">basic auth template</a><br>
+      <a href="https://github.com/aubreyrs/mcs">mcs tui for mc player info, in rust</a><br>
+      <a href="https://github.com/aubreyrs/auth-template">basic auth template, in rust</a><br>
+      <a href="https://github.com/aubreyrs/antidebug-rs">basic antidebug i wrote, in rust</a><br>
+      <a href="https://github.com/aubreyrs/clippy">lastfm wrapper, in rust</a><br>
+      <a href="https://github.com/aubreyrs/ToriClient">dumping a random mc client lol</a><br>
     </samp>
   </p>
 </p>
