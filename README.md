@@ -4,7 +4,6 @@
     <samp>
       i'm aubrey | 18 | she/her/hers
       <br>
-      <br>
       i like music, cli/tui tools & more
       <br>
       experienced in rust, ts/js, c++/c & java
