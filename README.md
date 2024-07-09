@@ -16,6 +16,8 @@
       i like messing around with the jvm, rust and writing stuff related to jvmti/jni
       <br>
       <br>
+      currently working on a clientside ac for minecraft & more
+      <br>
       twt: 
       <a href="https://twitter.com/aubreydll">@aubreydll</a><br>
       contact: 
