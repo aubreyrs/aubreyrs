@@ -13,9 +13,9 @@
       im okayish when it comes to reverse engineering etc
       <br>
       <br>
-      i like messing around with the jvm, rust and writing stuff related to jvmti/jni
+      breaking the jvm step by step, i abuse jni/jvmti ^-^
       <br>
-      currently working on a clientside ac for minecraft & more
+      currently working on smp.lgbt
       <br>
       <br>
       twt: 
