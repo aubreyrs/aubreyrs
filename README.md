@@ -13,9 +13,9 @@
       im okayish when it comes to reverse engineering etc
       <br>
       <br>
-      breaking the jvm step by step, i abuse jni/jvmti ^-^
+      currently getting better at nt api :cat:
       <br>
-      currently working on smp.lgbt
+      currently meOWING
       <br>
       <br>
       twt: 
