@@ -30,7 +30,7 @@
       <a href="https://github.com/aubreyrs/mcs">mcs tui for mc player info, in rust</a><br>
       <a href="https://github.com/aubreyrs/auth-template">basic auth template, in rust</a><br>
       <a href="https://github.com/aubreyrs/antidebug-rs">basic antidebug i wrote, in rust</a><br>
-      <a href="https://github.com/aubreyrs/clippy">lastfm wrapper, in rust</a><br>
+      <a href="https://github.com/aubreyrs/clippy">ffmpeg wrapper, in rust</a><br>
     </samp>
   </p>
 </p>
