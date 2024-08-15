@@ -29,7 +29,7 @@
       <a href="https://github.com/aubreyrs/auth-template">basic auth template, in rust</a><br>
       <a href="https://github.com/aubreyrs/antidebug-rs">basic antidebug i wrote, in rust</a><br>
       <br>
-      <a href="https://resume.aubrey.cat">resume</a><br>
+      <a href="https://resume.aubrey.rs">resume</a><br>
       <br>
     </samp>
   </p>
