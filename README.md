@@ -1,5 +1,5 @@
 <p float="left">
-  <img src="images/faye.jpg" width="250" align="left">
+  <img src="images/image3.jpg" width="250" align="right">
   <p float="left">
     <samp>
       i'm aubrey | 18 | she/her/hers
@@ -30,7 +30,6 @@
       <a href="https://github.com/aubreyrs/mcs">mcs tui for mc player info, in rust</a><br>
       <a href="https://github.com/aubreyrs/auth-template">basic auth template, in rust</a><br>
       <a href="https://github.com/aubreyrs/antidebug-rs">basic antidebug i wrote, in rust</a><br>
-      <a href="https://github.com/aubreyrs/clippy">ffmpeg wrapper, in rust</a><br>
     </samp>
   </p>
 </p>
