@@ -1,5 +1,5 @@
 <p float="left">
-  <img src="images/image3.jpg" width="250" align="right">
+  <img src="images/image3.jpg" width="250" align="left">
   <p float="left">
     <samp>
       i'm aubrey | 18 | she/her/hers
