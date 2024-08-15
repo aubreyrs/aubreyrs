@@ -6,16 +6,14 @@
       <br>
       i like music, cli/tui tools & more
       <br>
-      experienced in rust, ts/js, c++/c & java
+      experienced in rust, c/c++ & x86 asm
       <br>
       <br>
       i have 6 cats, im fucking awesome
-      im okayish when it comes to reverse engineering etc
+      I do devops, reverse engineering and systems engineering etc
       <br>
       <br>
-      currently getting better at nt api :cat:
-      <br>
-      currently meOWING
+      currently working on NOTHING unfortunately
       <br>
       <br>
       twt: 
