@@ -1,7 +1,11 @@
-<p float="left">
-  <img src="images/image3.jpg" width="250" align="left">
-  <p float="left">
-             _                             
+<table>
+  <tr>
+    <td>
+      <img src="images/image3.jpg" width="250" alt="Aubrey's Image">
+    </td>
+    <td>
+      <pre>
+             _
             | |                            
   __ _ _   _| |__  _ __ ___ _   _ _ __ ___ 
  / _` | | | | '_ \| '__/ _ \ | | | '__/ __|
@@ -9,5 +13,7 @@
  \__,_|\__,_|_.__/|_|  \___|\__, |_|  |___/
                              __/ |         
                             |___/          
-  </p>
-</p>
+      </pre>
+    </td>
+  </tr>
+</table>
