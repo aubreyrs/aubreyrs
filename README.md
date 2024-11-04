@@ -1,7 +1,6 @@
 <p float="left">
   <img src="images/image3.jpg" width="250" align="left">
   <p float="left">
-    <pre>
              _                             
             | |                            
   __ _ _   _| |__  _ __ ___ _   _ _ __ ___ 
@@ -10,6 +9,5 @@
  \__,_|\__,_|_.__/|_|  \___|\__, |_|  |___/
                              __/ |         
                             |___/          
-    </pre>
   </p>
 </p>
